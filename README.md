@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @not-coded
+- 👀 I’m interested in html, node.js, javascript and more!
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on... nothing?
+- 📫 How to reach me: @not-coded on Twitter
