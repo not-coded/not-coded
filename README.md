@@ -7,6 +7,11 @@
 <a href="https://www.youtube.com/channel/UCItbfk2X2ASiexdsX7rEv-g"><img alt="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCItbfk2X2ASiexdsX7rEv-g"></a>
 </p>
 
+<script>
+var audio = new Audio("https://raw.githubusercontent.com/not-coded/not-coded/main/untitled.mp3")
+audio.play()
+</script>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :**  Web Development 💻
