@@ -7,8 +7,6 @@
 <a href="https://www.youtube.com/channel/UCItbfk2X2ASiexdsX7rEv-g"><img alt="Youtube" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCItbfk2X2ASiexdsX7rEv-g"></a>
 </p>
 
-https://user-images.githubusercontent.com/66999075/136615679-f41d8d27-24ff-4198-a46b-b1697297cb6d.mp4
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :**  Web Development 💻
