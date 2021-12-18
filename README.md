@@ -12,7 +12,7 @@
 -  **Working :**  Web Development 💻
 -  **Interested :** HTML, node.js, javascript and more!
 -  **Learning :** How to make awesome games 🎮 | Hosting websites, bots, etc. 🤖
--  **Hobbies :** Gaming 🎮 | Music 🎧
+-  **Hobbies :** Gaming 🎮 | Programming 💻 | Listening to music 🎧 
 -  **Ask me about :** Anything!, I'm happy to help and be friends!
 -  **Pronouns :** He/Him/His
 
