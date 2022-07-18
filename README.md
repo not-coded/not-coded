@@ -12,10 +12,15 @@
 -  **Working :** Minecraft Plugins/Mods (Spigot/Fabric)
 -  **Interested :** HTML, node.js, java and more!
 -  **Learning :** How to make awesome games 🎮 | Hosting websites, bots, etc. for free 🤖
--  **Hobbies :** Gaming 🎮 | Programming 💻 | Listening to music 🎧 
--  **Ask me about :** Anything!, I'm happy to help and be friends!
+-  **Hobbies :** Gaming 🎮 | Programming 💻
+-  **Ask me about :** Anything!, I am happy to help and be friends!
 -  **Pronouns :** He/Him/His
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 👨‍💻 I can code in
+-  **Java**
+-  **HTML**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 
 
